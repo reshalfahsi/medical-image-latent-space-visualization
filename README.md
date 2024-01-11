@@ -2,7 +2,7 @@
 
 
  <div align="center">
-    <a href="https://colab.research.google.com/github/reshalfahsi/medical-image-latent-space-visualization/blob/master/Medical_Image_Latent_Space_Visualization_Using_VQ-VAE.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="colab"></a>
+    <a href="https://colab.research.google.com/github/reshalfahsi/medical-image-latent-space-visualization/blob/master/Medical_Image_Latent_Space_Visualization_Using_VQ_VAE.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="colab"></a>
     <br />
  </div>
 
